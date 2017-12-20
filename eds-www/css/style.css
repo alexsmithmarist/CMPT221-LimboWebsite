@@ -1,0 +1,44 @@
+body{
+background: linear-gradient(red, lightcoral);
+background-repeat: repeat-x;
+}
+
+.description{
+    color: white;
+}
+
+.link{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+h1{
+    color: white;
+}
+
+.update{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+    
+}
+
+table{
+    border-collapse: collapse;
+    color: white;
+    background: black;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
+a{
+    color: white;
+}
+
+.submitnew{
+    color: black;
+}
